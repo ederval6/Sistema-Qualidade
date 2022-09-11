@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:14:09.000.782,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 19:15:22.000.507,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/09/04 19:16:08.000.496,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/09/04 19:17:15.000.130,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Conexao.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/09/04 19:17:15.000.130,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Conexao.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/09/04 19:17:33.000.417,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Qualidade.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/09/04 19:17:46.000.945,=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 19:18:31.000.457,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Loguin.dfm=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.dfm</Transaction>
+    <Transaction>2022/09/04 19:18:31.000.457,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Loguin.pas=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 19:18:46.000.462,=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 19:20:18.000.880,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Principal.pas=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 19:20:18.000.880,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Principal.dfm=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.dfm</Transaction>
+    <Transaction>2022/09/04 19:20:40.000.527,=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 19:21:48.000.114,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Menu.pas=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 19:21:48.000.114,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Menu.dfm=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.dfm</Transaction>
+    <Transaction>2022/09/04 19:40:16.000.202,=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 19:41:09.000.757,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Inspecao.dfm=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.dfm</Transaction>
+    <Transaction>2022/09/04 19:41:09.000.757,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Inspecao.pas=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 20:05:48.000.883,=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 20:06:44.000.229,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_CadastroUsuario.pas=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 20:06:44.000.229,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_CadastroUsuario.dfm=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.dfm</Transaction>
+    <Transaction>2022/09/05 06:35:31.000.713,=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas</Transaction>
+    <Transaction>2022/09/05 06:36:29.000.378,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.dfm=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Historico.dfm</Transaction>
+    <Transaction>2022/09/05 06:36:29.000.378,C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit1.pas=C:\Users\Usuario\Desktop\Delhi-layout atual\unit\Unit_Historico.pas</Transaction>
+  </Transactions>
+</BorlandProject>
